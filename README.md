@@ -14,4 +14,4 @@ If you want authentication or anything else for the serve function, please refer
 [![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/rclone-serve)
 
 <p>Heroku:</p>
-<a href="https://dashboard.heroku.com/new&template=https://github.com/tiararosebiezetta/rclone-serve"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/tiararosebiezetta/rclone-serve"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a>
