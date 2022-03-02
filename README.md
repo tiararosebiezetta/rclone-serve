@@ -1,6 +1,6 @@
 # rclone-serve-test
 
-This is just a simple `rclone rcd` implement via web GUI and can be deployed to Heroku.
+This is just a simple `rclone rcd` implementation via web GUI and can be deployed to Heroku.
 
 It's basically the same as <a href="https://github.com/developeranaz/RCLONE-SERVE-INDEX">this repo</a>, but without docker. `requirements.txt` is only a trigger for building via Python buildpack, without it, the builder won't detect any buildpack. It's not needed for the serve function.
 
