@@ -1,0 +1,10 @@
+{
+	"name": "Rclone Serve",
+	"description": "Serve files inside rclone config via web UI",
+	"repository": "https://github.com/tiararosebiezetta/rclone-serve",
+	"env": {
+		"CONFIG_URL": {
+			"description": "Raw link of your rclone config file (see README.md of the repo for details)"
+		}
+	}
+}
